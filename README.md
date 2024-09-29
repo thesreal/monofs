@@ -1,10 +1,10 @@
-# monofs
+# MonoFS
 This is where I will make all my work on MonoFS, a lightweight filesystem that I created for embedded systems that requires minimum effort.
-Specs:
-8 files, no filename, just number
-No directories
-2 read-only files
-Forced 1024 byte filesize
+Specs:<br/>
+8 files, no filename, just number<br/>
+No directories<br/>
+2 read-only files<br/>
+Forced 1024 byte filesize<br/>
 
 
 # The format (hex):
